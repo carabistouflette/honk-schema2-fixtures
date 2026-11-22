@@ -1,0 +1,8 @@
+[package]
+name = "qual-extra"
+version = "1.0.0"
+kind = "lib"
+entry = "lib.goose"
+
+[toolchain]
+revision = "eeab7eebcae92d9a04b6caf43c321da560b8d269"
